@@ -1,1 +1,1 @@
-# git-hidtory-test
+# git-history-test
